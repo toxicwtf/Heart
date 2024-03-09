@@ -14,7 +14,7 @@ img {
   width: var(--width);
   position: absolute;
   transform: translate(-50%, -50%);
-  animation: anim 2s linear;
+  animation: anim 1.6s linear;
 }
 
 @keyframes anim {
