@@ -13,5 +13,5 @@ window.addEventListener("mousemove", (e) => {
   body.appendChild(img);
   setInterval(() => {
     img.remove();
-  }, 1480);
+  }, 1540);
 });
